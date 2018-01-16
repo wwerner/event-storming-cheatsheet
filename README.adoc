@@ -9,7 +9,7 @@ This cheat sheet aims to provide a short opinionated summary of preparing and fa
 * *Paper rolls* to create the modeling surface. Available e.g. at IKEA (Mala, http://www.ikea.com/de/de/catalog/products/80324072/ or at Amazon https://www.amazon.de/gp/product/B005OBO1LO)
 * *Sticky notes*. Vaughn Vernon recommends the 7,6 x 7,6 cm super sticky variety. You need the following colors: orange, light blue, pale yellow, green, pink, purple / red, lilac. I found the Post It collections Marrakesh (e.g. https://www.amazon.de/gp/product/B016OON3UO/) and Energy (e.g. https://www.amazon.de/gp/product/B006JCQJJY) put together work. Make sure you have plenty of them
 * If you also want to sketch out UI Mocks, personas or acceptance test cases, you may add a larger variety of stickes as well.
-* *Fine felt tip markers*. At least one per participant. Do not use standard flipchart markers as they are too big for the selected sticky notes but rather a finer variety. Calligrapy Eddings M / 2,5 are great but rather expensive.
+* *Fine felt tip markers*. At least one per participant. Do not use standard flipchart markers as they are too big for the selected sticky notes but rather a finer variety.
 * *Bigger felt tip markers*. Standard flip chart markers work well.
 * *Adhesive tape*. Use gaffer tape to put up the paper roll and probably crepe tape to put up additional notes.
 

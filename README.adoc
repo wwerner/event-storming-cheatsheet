@@ -71,4 +71,4 @@ The semantics of the various colors as mentioned in the text above are shown bel
 * Brandolini, Alberto. Event Storming Recipes. SlideShare, 21 June 2014, de.slideshare.net/ziobrando/event-storming-recipes.
 * Rayner, Paul. Event Storming. SlideShare, 26 May 2017, www.slideshare.net/AgileDenver/event-storming-76390807.
 * Brandolini, Alberto. Model Storming. SlideShare, 19 Sept. 2013, www.slideshare.net/ziobrando/model-storming.
-
+* Brandolini, Alberto. 50.000 Orange Stickies Later, 7 November 2018, https://www.youtube.com/watch?v=NGXl1D-KwRI
